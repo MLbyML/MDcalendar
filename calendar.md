@@ -1,7 +1,7 @@
 ### nov 7 
 * Fit (*One*) GMM to simulated, 2D data 
 * Generalize above to n Gaussians
-* Test Gurobi (Quadratic Matching) onMastodon, Platynereis 
+* Test Gurobi (Quadratic Matching) on Mastodon, Platynereis 
 * Make account on arxiv
 * Clean up latex code on overleaf
 * Merge PPN2V with PN2V
@@ -33,7 +33,10 @@
 * Document and Communicate to JF
 * Check KK Data
 
- 
+### nov 10
+* Perform experiments with HydraNet on Dataset1
+* Perform experiments with HydraNet on Dataset2
+* Implement NMS on MultipleGaussian
 
 
 
