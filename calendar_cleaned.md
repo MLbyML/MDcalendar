@@ -1,20 +1,7 @@
 ---
 
-### Thursday, November 07, 2019
-* ~~Fit (*One*) GMM to simulated, 2D data~~
-* Generalize above to n Gaussians
-* Test Gurobi (Quadratic Matching) on Mastodon, Platynereis
-* Make account on arxiv
-* ~~Clean up latex code on overleaf~~
-* Merge PPN2V with PN2V
-* ~~Book ticket to SS~~
-* Book ticket to L
-* ~~Meeting With MP~~
-* Reply to KG and DS
-* Extend MultiViewFusion
-
 ### Friday, November 08, 2019
-* Meet Florian and push article to arxiv
+* Meet FJ and push article to arxiv
 * Perform Segmentation on MHT Data
 * Check performance of segmentation with MHT annotation
 * Write ILP tracker with Mass Conservation on MHT Data
@@ -47,4 +34,17 @@
 ---
 
 ---
+
+### Thursday, November 07, 2019
+* ~~Fit (*One*) GMM to simulated, 2D data~~
+* Generalize above to n Gaussians
+* Test Gurobi (Quadratic Matching) on Mastodon, Platynereis
+* Make account on arxiv
+* ~~Clean up latex code on overleaf~~
+* Merge PPN2V with PN2V
+* ~~Book ticket to SS~~
+* Book ticket to L
+* ~~Meeting With MP~~
+* Reply to KG and DS
+* Extend MultiViewFusion
 

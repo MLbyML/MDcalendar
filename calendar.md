@@ -12,7 +12,7 @@
 * Extend MultiViewFusion
 
 ### nov 8
-* Meet Florian and push article to arxiv
+* Meet FJ and push article to arxiv
 * Perform Segmentation on MHT Data
 * Check performance of segmentation with MHT annotation
 * Write ILP tracker with Mass Conservation on MHT Data
