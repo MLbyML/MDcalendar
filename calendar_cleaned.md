@@ -1,7 +1,7 @@
 ---
 
 ### Thursday, November 07, 2019
-* Fit (*One*) GMM to simulated, 2D data
+* <span style="color:green">Fit (*One*) GMM to simulated, 2D data</span>
 * Generalize above to n Gaussians
 * Test Gurobi (Quadratic Matching) on Mastodon, Platynereis
 * Make account on arxiv
