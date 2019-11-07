@@ -1,13 +1,13 @@
 ### nov 7 
-* <span style="color:green">Fit (*One*) GMM to simulated, 2D data</span> 
+* ~~Fit (*One*) GMM to simulated, 2D data~~ 
 * Generalize above to n Gaussians
 * Test Gurobi (Quadratic Matching) on Mastodon, Platynereis 
 * Make account on arxiv
-* Clean up latex code on overleaf
+* ~~Clean up latex code on overleaf~~
 * Merge PPN2V with PN2V
-* Book ticket to SS
+* ~~Book ticket to SS~~
 * Book ticket to L
-* Meeting With MP
+* ~~Meeting With MP~~
 * Reply to KG and DS
 * Extend MultiViewFusion
 
