@@ -4,7 +4,7 @@
 * Generalize above to n Gaussians
 * Test Gurobi (Quadratic Matching) on Mastodon, Platynereis
 * Extend MultiViewFusion
-* Book ticket to L
+* ~~Book ticket to L~~
 * Reply to KG and DS
 * ~~Meet FJ ~~ and push article to arxiv
 * Perform Segmentation on MHT Data
