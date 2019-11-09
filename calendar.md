@@ -8,8 +8,8 @@
 
 ### nov 8
 * ~~Book ticket to L~~
-* ~~ Reply to KG and DS~~
-* ~~Meet FJ ~~ and push article to arxiv
+* ~~Reply to KG and DS~~
+* ~~Meet FJ~~ 
 * ~~Meeting with MB~~
 
 ### nov 9
@@ -48,6 +48,7 @@
 * Perform Tracking on MHT data
 * Check performance of Tracking on MHT Data
 * Document performance
+* Push the article to arxiv
 
 
 

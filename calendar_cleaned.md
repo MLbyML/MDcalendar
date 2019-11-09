@@ -11,7 +11,7 @@
 * Perform StarDist on JF Data
 * Document and Communicate to JF
 * ~~Check KK Data~~
-* Prepare denoising pipeline with PPN2V, Bootstrapped for Bruno
+* Prepare denoising pipeline with PPN2V, Bootstrapped for BV
 * Add Care notebooks
 * git rebase the PPN2V repository
 
@@ -36,6 +36,7 @@
 * Perform Tracking on MHT data
 * Check performance of Tracking on MHT Data
 * Document performance
+* Push the article to arxiv
 
 
 
@@ -53,7 +54,7 @@
 
 ### Friday, November 08, 2019
 * ~~Book ticket to L~~
-* ~~ Reply to KG and DS~~
-* ~~Meet FJ ~~ and push article to arxiv
+* ~~Reply to KG and DS~~
+* ~~Meet FJ~~
 * ~~Meeting with MB~~
 
