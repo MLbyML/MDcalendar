@@ -23,7 +23,7 @@
 * Perform StarDist on JF Data
 * Document and Communicate to JF
 * ~~Check KK Data~~
-* Prepare denoising pipeline with PPN2V, Bootstrapped for Bruno
+* Prepare denoising pipeline with PPN2V, Bootstrapped for BV
 * Add Care notebooks 
 * git rebase the PPN2V repository
 
