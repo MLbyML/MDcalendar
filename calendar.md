@@ -32,12 +32,15 @@
 * Document and communicate performance to VY, AB
 * Perform StarDist on JF Data
 * Document and Communicate to JF
-* Check KK Data
+* ~~Check KK Data~~
 
 ### nov 10
 * Perform experiments with HydraNet on Dataset1
 * Perform experiments with HydraNet on Dataset2
 * Implement NMS on MultipleGaussian
+* Check KK Data from the perspective of graph matching
+
+
 
 
 
