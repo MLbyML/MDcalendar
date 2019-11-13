@@ -7,9 +7,9 @@
 * Use fixed threshold and see GMM performance
 * Label membrane data
 * label fixed specimen
-* Solve the 512 * 512 issue on Alex's data
+* Solve the 512 * 512 issue on AK's data
 * Test segmentation with StarDist
-* Perform Multiview Fusion on Johannes' data
+* Perform Multiview Fusion on JG' data
 * Produce quadratic matching on two time points separated by few time points
 * Perform experiments with HydraNet on Dataset1
 * Perform experiments with HydraNet on Dataset2
@@ -77,5 +77,5 @@
 * ~~Reply to Mette~~
 * ~~Send out vacation email~~
 * ~~Generalize above to n Gaussians~~
-* ~~Reply to Krishan~~
+* ~~Reply to KS~~
 
