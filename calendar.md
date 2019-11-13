@@ -25,7 +25,7 @@
 
 ### nov 12
 
-* ~~Reply to Mette~~
+* ~~Reply to MHT~~
 * ~~Send out vacation email~~
 * ~~Generalize above to n Gaussians~~
 * ~~Reply to KS~~

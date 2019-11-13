@@ -74,7 +74,7 @@
 
 ### Tuesday, November 12, 2019
 
-* ~~Reply to Mette~~
+* ~~Reply to MHT~~
 * ~~Send out vacation email~~
 * ~~Generalize above to n Gaussians~~
 * ~~Reply to KS~~
