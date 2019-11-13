@@ -24,14 +24,21 @@
 
 
 ### nov 12
-* Label membrane data
-* Test segmentation with StarDist
-* Reply to Mette
-* Send out vacation email
-* Generalize above to n Gaussians
-* Reply to Krishan
+
+* ~~Reply to Mette~~
+* ~~Send out vacation email~~
+* ~~Generalize above to n Gaussians~~
+* ~~Reply to Krishan~~
 
 ### nov 13
+* Generalize GenSeg to n SimulatedObjects
+* Generalize GenSeg to n Actual Objects
+* Get Threshold from Pixel Intensities
+* Use fixed threshold and see GMM performance 
+* Label membrane data
+* label fixed specimen
+* Solve the 512 * 512 issue on Alex's data
+* Test segmentation with StarDist
 * Perform Multiview Fusion on Johannes' data
 * Produce quadratic matching on two time points separated by few time points
 * Perform experiments with HydraNet on Dataset1
