@@ -44,6 +44,8 @@
 ### nov 17
 * Get Threshold from Pixel Intensities
 * Use fixed threshold and see GMM performance 
+* Look for QIP example and solver
+* Test on MHT's Graph Strcuture
 
 ### nov 18
 * Label membrane data
