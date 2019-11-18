@@ -28,13 +28,24 @@
 * ~~Reply to MHT~~
 * ~~Send out vacation email~~
 * ~~Generalize above to n Gaussians~~
-* ~~Reply to KS~~
+* ~~Reply to KG~~
 
 ### nov 13
-* Generalize GenSeg to n SimulatedObjects
-* Generalize GenSeg to n Actual Objects
+* ~~Generalize GenSeg to n SimulatedObjects~~
+
+
+### nov 14
+
+### nov 15
+
+### nov 16
+* ~~Generalize GenSeg to n Actual Objects~~
+
+### nov 17
 * Get Threshold from Pixel Intensities
 * Use fixed threshold and see GMM performance 
+
+### nov 18
 * Label membrane data
 * label fixed specimen
 * Solve the 512 * 512 issue on AK's data
@@ -50,8 +61,6 @@
 * Try making the pipeline for 2D data
 * Test Gurobi (Quadratic Matching) on Mastodon, Platynereis 
 * Extend MultiViewFusion
-
-### nov 14
 * Perform Segmentation on MHT Data
 * Check performance of segmentation with MHT annotation
 * Write ILP tracker with Mass Conservation on MHT Data
@@ -59,8 +68,6 @@
 * Check performance of Tracking on MHT Data
 * Document performance
 * Push the article to arxiv
-
-### nov 15
 * Create validation results with StarDist 2D on data1, data2
 * Test GenSeg on Actual Data
 * Perform FairSim on VY Data
@@ -72,4 +79,8 @@
 * ~~Prepare denoising pipeline with PPN2V, Bootstrapped for BV~~
 * Add Care notebooks 
 * git rebase the PPN2V repository
+
+### nov 18
+
+### nov 19
 
