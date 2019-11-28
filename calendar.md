@@ -85,4 +85,29 @@
 ### nov 18
 
 ### nov 19
+* book L, UK hotel
+* read Jetley et al paper
+* put the Genseg code into a class
+* How can StarDist be used for a three-class detection?
 
+### nov 26
+* ~~Create fileserver for K's data~~
+* ~~Create zip file of K's Data~~
+* ~~Copy zip file to correct location~~
+* ~~Apply for project space increase~~
+* Unzip the 
+* Reply to K
+* ~~Get documents for A33~~
+* ~~Fill up the form of A33~~
+* ~~File the house cancellation~~
+* ~~Meet IO~~
+* ~~Copy the data from RL's doc to excel~~
+
+### nov 28
+* Make a new branch for simulated data
+* ~~Scan the ID document~~
+* ~~Prepare envelope~~
+* Implement the 'Learning Graph Matching' for C. Elegans dataset
+* Explain the theory of Learning Graph Matching in post
+* Start looking at K/MB data
+ 
