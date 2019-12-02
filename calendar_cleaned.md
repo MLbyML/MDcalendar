@@ -1,12 +1,19 @@
 ---
 
-### Thursday, November 28, 2019
-* Make a new branch for simulated data
-* ~~Scan the ID document~~
-* ~~Prepare envelope~~
-* Implement the 'Learning Graph Matching' for C. Elegans dataset
-* Explain the theory of Learning Graph Matching in post
-* Start looking at K/MB data
+### Monday, December 02, 2019
+* Write a macro
+* Prepare simulated data
+* Run the first analysis
+* Push to Github
+* Create a new branch for simulated data: GenSeg
+* Maybe write a post about it
+* Read up on differentiable IOU between masks and distribution
+* Make up a new branch for differentiable IOU
+* Read up on N2V SimSim (what could be the next step)
+* Start summarizing the data from JF
+* Start summarizing the data from K, MB. Perform analyses
+* Start summarizing the paper1, paper2, paper3
+
 
 ---
 
@@ -104,15 +111,28 @@
 * How can StarDist be used for a three-class detection?
 
 ### Tuesday, November 26, 2019
-* ~~Create fileserver for K's data~~
+* ~~Create fileserver for KM's data~~
 * ~~Create zip file of K's Data~~
 * ~~Copy zip file to correct location~~
 * ~~Apply for project space increase~~
-* Unzip the
-* Reply to K
+* ~~Unzip the contents~~
+* ~~Reply to KM~~
 * ~~Get documents for A33~~
 * ~~Fill up the form of A33~~
 * ~~File the house cancellation~~
 * ~~Meet IO~~
 * ~~Copy the data from RL's doc to excel~~
+
+### Thursday, November 28, 2019
+* Make a new branch for simulated data
+* ~~Scan the ID document~~
+* ~~Prepare envelope~~
+* Implement the 'Learning Graph Matching' for C. Elegans dataset
+* Explain the theory of Learning Graph Matching in post
+* Start looking at KM/MB data
+
+### Friday, November 29, 2019
+* Prepare simulated data three quality levels
+* ~~Prepare presentation to discuss with PAvel~~
+* ~~Figure out why you are unable to copy data into fileserver (uid=lalit) ~~
 

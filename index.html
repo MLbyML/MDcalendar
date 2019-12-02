@@ -2,109 +2,26 @@
 <head><title>MDcalendar</title>
 <link rel="stylesheet" type="text/css" href="mdStyle.css"><meta charset="utf-8"></head>
 <body><table width="100%" cellpadding="0" cellspacing="0" class="month">
-<tr><th colspan="7" class="month">November 2019</th></tr>
+<tr><th colspan="7" class="month">December 2019</th></tr>
 <tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
-<tr><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td height="100px" width="14%" class="fri crossed">1<br/></td><td height="100px" width="14%" class="sat crossed">2<br/></td></tr>
-<tr><td height="100px" width="14%" class="sun crossed">3<br/></td><td height="100px" width="14%" class="mon crossed">4<br/></td><td height="100px" width="14%" class="tue crossed">5<br/></td><td height="100px" width="14%" class="wed crossed">6<br/></td><td height="100px" width="14%" class="thu crossed">7<br/><ul>
-<li><del>Fit (<em>One</em>) GMM to simulated, 2D data</del></li>
-<li><del>Clean up latex code on overleaf</del></li>
-<li><del>Merge PPN2V with PN2V</del></li>
-<li><del>Book ticket to SS</del></li>
-<li><del>Meeting With MP</del></li>
+<tr><td height="100px" width="14%" class="sun crossed">1<br/></td><td height="100px" width="14%" class="today">2<br/><ul>
+<li>Write a macro</li>
+<li>Prepare simulated data</li>
+<li>Run the first analysis</li>
+<li>Push to Github</li>
+<li>Create a new branch for simulated data: GenSeg</li>
+<li>Maybe write a post about it</li>
+<li>Read up on differentiable IOU between masks and distribution</li>
+<li>Make up a new branch for differentiable IOU</li>
+<li>Read up on N2V SimSim (what could be the next step)</li>
+<li>Start summarizing the data from JF</li>
+<li>Start summarizing the data from K, MB. Perform analyses</li>
+<li>Start summarizing the paper1, paper2, paper3</li>
 </ul>
-</td><td height="100px" width="14%" class="fri crossed">8<br/><ul>
-<li><del>Book ticket to L</del></li>
-<li><del>Reply to KG and DS</del></li>
-<li><del>Meet FJ</del></li>
-<li><del>Meeting with MB</del></li>
-</ul>
-</td><td height="100px" width="14%" class="sat crossed">9<br/><ul>
-<li><del>Meeting with AG</del></li>
-<li><del>Check KK Data</del></li>
-</ul>
-</td></tr>
-<tr><td height="100px" width="14%" class="sun crossed">10<br/></td><td height="100px" width="14%" class="mon crossed">11<br/></td><td height="100px" width="14%" class="tue crossed">12<br/><ul>
-<li><del>Reply to MHT</del></li>
-<li><del>Send out vacation email</del></li>
-<li><del>Generalize above to n Gaussians</del></li>
-<li><del>Reply to KG</del></li>
-</ul>
-</td><td height="100px" width="14%" class="wed crossed">13<br/><ul>
-<li><del>Generalize GenSeg to n SimulatedObjects</del></li>
-</ul>
-</td><td height="100px" width="14%" class="thu crossed">14<br/></td><td height="100px" width="14%" class="fri crossed">15<br/></td><td height="100px" width="14%" class="sat crossed">16<br/><ul>
-<li><del>Generalize GenSeg to n Actual Objects</del></li>
-</ul>
-</td></tr>
-<tr><td height="100px" width="14%" class="sun crossed">17<br/><ul>
-<li>Get Threshold from Pixel Intensities</li>
-<li>Use fixed threshold and see GMM performance</li>
-<li>Look for QIP example and solver</li>
-<li>Test on MHT's Graph Strcuture</li>
-</ul>
-</td><td height="100px" width="14%" class="mon crossed">18<br/><ul>
-<li>Label membrane data</li>
-<li>label fixed specimen</li>
-<li>Solve the 512 * 512 issue on AK's data</li>
-<li>Test segmentation with StarDist</li>
-<li>Perform Multiview Fusion on JG' data</li>
-<li>Produce quadratic matching on two time points separated by few time points</li>
-<li>Perform experiments with HydraNet on Dataset1</li>
-<li>Perform experiments with HydraNet on Dataset2</li>
-<li>Implement NMS on MultipleGaussian</li>
-<li>Check KK Data from the perspective of graph matching</li>
-<li>Move data to the correct location</li>
-<li>Find the right parameter for bleach correction</li>
-<li>Try making the pipeline for 2D data</li>
-<li>Test Gurobi (Quadratic Matching) on Mastodon, Platynereis</li>
-<li>Extend MultiViewFusion</li>
-<li>Perform Segmentation on MHT Data</li>
-<li>Check performance of segmentation with MHT annotation</li>
-<li>Write ILP tracker with Mass Conservation on MHT Data</li>
-<li>Perform Tracking on MHT data</li>
-<li>Check performance of Tracking on MHT Data</li>
-<li>Document performance</li>
-<li>Push the article to arxiv</li>
-<li>Create validation results with StarDist 2D on data1, data2</li>
-<li>Test GenSeg on Actual Data</li>
-<li>Perform FairSim on VY Data</li>
-<li>Perform Segmentation of Myson and Actin with Pytorch</li>
-<li>Extend Pytorch for blob detection</li>
-<li>Document and communicate performance to VY, AB</li>
-<li>Perform StarDist on JF Data</li>
-<li>Document and Communicate to JF</li>
-<li><del>Prepare denoising pipeline with PPN2V, Bootstrapped for BV</del></li>
-<li>Add Care notebooks</li>
-<li>git rebase the PPN2V repository</li>
-</ul>
-</td><td height="100px" width="14%" class="tue crossed">19<br/><ul>
-<li>book L, UK hotel</li>
-<li>read Jetley et al paper</li>
-<li>put the Genseg code into a class</li>
-<li>How can StarDist be used for a three-class detection?</li>
-</ul>
-</td><td height="100px" width="14%" class="wed crossed">20<br/></td><td height="100px" width="14%" class="thu crossed">21<br/></td><td height="100px" width="14%" class="fri crossed">22<br/></td><td height="100px" width="14%" class="sat crossed">23<br/></td></tr>
-<tr><td height="100px" width="14%" class="sun crossed">24<br/></td><td height="100px" width="14%" class="mon crossed">25<br/></td><td height="100px" width="14%" class="tue crossed">26<br/><ul>
-<li><del>Create fileserver for K's data</del></li>
-<li><del>Create zip file of K's Data</del></li>
-<li><del>Copy zip file to correct location</del></li>
-<li><del>Apply for project space increase</del></li>
-<li>Unzip the</li>
-<li>Reply to K</li>
-<li><del>Get documents for A33</del></li>
-<li><del>Fill up the form of A33</del></li>
-<li><del>File the house cancellation</del></li>
-<li><del>Meet IO</del></li>
-<li><del>Copy the data from RL's doc to excel</del></li>
-</ul>
-</td><td height="100px" width="14%" class="wed crossed">27<br/></td><td height="100px" width="14%" class="today">28<br/><ul>
-<li>Make a new branch for simulated data</li>
-<li><del>Scan the ID document</del></li>
-<li><del>Prepare envelope</del></li>
-<li>Implement the 'Learning Graph Matching' for C. Elegans dataset</li>
-<li>Explain the theory of Learning Graph Matching in post</li>
-<li>Start looking at K/MB data</li>
-</ul>
-</td><td height="100px" width="14%" class="fri">29<br/></td><td height="100px" width="14%" class="sat">30<br/></td></tr>
+</td><td height="100px" width="14%" class="tue">3<br/></td><td height="100px" width="14%" class="wed">4<br/></td><td height="100px" width="14%" class="thu">5<br/></td><td height="100px" width="14%" class="fri">6<br/></td><td height="100px" width="14%" class="sat">7<br/></td></tr>
+<tr><td height="100px" width="14%" class="sun">8<br/></td><td height="100px" width="14%" class="mon">9<br/></td><td height="100px" width="14%" class="tue">10<br/></td><td height="100px" width="14%" class="wed">11<br/></td><td height="100px" width="14%" class="thu">12<br/></td><td height="100px" width="14%" class="fri">13<br/></td><td height="100px" width="14%" class="sat">14<br/></td></tr>
+<tr><td height="100px" width="14%" class="sun">15<br/></td><td height="100px" width="14%" class="mon">16<br/></td><td height="100px" width="14%" class="tue">17<br/></td><td height="100px" width="14%" class="wed">18<br/></td><td height="100px" width="14%" class="thu">19<br/></td><td height="100px" width="14%" class="fri">20<br/></td><td height="100px" width="14%" class="sat">21<br/></td></tr>
+<tr><td height="100px" width="14%" class="sun">22<br/></td><td height="100px" width="14%" class="mon">23<br/></td><td height="100px" width="14%" class="tue">24<br/></td><td height="100px" width="14%" class="wed">25<br/></td><td height="100px" width="14%" class="thu">26<br/></td><td height="100px" width="14%" class="fri">27<br/></td><td height="100px" width="14%" class="sat">28<br/></td></tr>
+<tr><td height="100px" width="14%" class="sun">29<br/></td><td height="100px" width="14%" class="mon">30<br/></td><td height="100px" width="14%" class="tue">31<br/></td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td></tr>
 </table>
 </body></html>
