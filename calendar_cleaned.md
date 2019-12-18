@@ -1,19 +1,16 @@
 ---
 
-### Monday, December 02, 2019
-* Write a macro
-* Prepare simulated data
-* Run the first analysis
-* Push to Github
-* Create a new branch for simulated data: GenSeg
-* Maybe write a post about it
-* Read up on differentiable IOU between masks and distribution
-* Make up a new branch for differentiable IOU
-* Read up on N2V SimSim (what could be the next step)
-* Start summarizing the data from JF
-* Start summarizing the data from K, MB. Perform analyses
-* Start summarizing the paper1, paper2, paper3
-
+### Wednesday, December 18, 2019
+* ~~See AK's Slides~~
+* ~~See MP's Slides~~
+* Document Style Transfer GAN
+* Check out FJ's threshold idea (sum up intensities for each label, look at 10 thresholds and choose)
+* Use network to predict GMM parameters
+* Prepare Slides
+* ~~Document things which AK mentioned yesterday~~
+* Write letter to Lund University folks.
+* Finish Analysis on Keller Lab
+* ~~Pay for kuche~~
 
 ---
 
@@ -135,4 +132,24 @@
 * Prepare simulated data three quality levels
 * ~~Prepare presentation to discuss with PAvel~~
 * ~~Figure out why you are unable to copy data into fileserver (uid=lalit) ~~
+
+### Monday, December 02, 2019
+* ~~Write a macro~~
+* Perform convolutions using pytorch
+* Prepare and save simulated data
+* Run the first analysis
+* Push to Github
+* Create a new branch for simulated data: GenSeg
+* Maybe write a post about it
+* Read up on differentiable IOU between masks and distribution
+* Make up a new branch for differentiable IOU
+* Read up on N2V SimSim (what could be the next step)
+* Start summarizing the data from JF
+* Start summarizing the data from KM, MB. Perform analyses
+* Start summarizing the paper1, paper2, paper3
+* Book hotel for QBI
+* Start looking at the biological data
+* Test your learned model on this data.
+* Clean up the code
+*
 
