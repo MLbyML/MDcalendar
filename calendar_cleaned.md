@@ -1,5 +1,9 @@
 ---
 
+### Friday, December 27, 2019
+* Document KellerLab.
+* Document TextureSynthesis.
+* Train a Unet baseline on DSB and save.
 ---
 
 ---
@@ -163,13 +167,9 @@
 * Complete GenSeg.
 * See if you can perform N2V on optical flow.
 
-# dec 19
+### Thursday, December 19, 2019
 * ~~meet KK~~.
 * Figure out the cluster.
 * Modify the markdown timetable such that it can print specific months.
 * Answer the pull request.
 
-# dec 27
-* Document KellerLab.
-* Document TextureSynthesis.
-* Train a Unet baseline on DSB and save.
