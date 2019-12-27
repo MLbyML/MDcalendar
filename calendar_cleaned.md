@@ -1,17 +1,5 @@
 ---
 
-### Wednesday, December 18, 2019
-* ~~See AK's Slides~~
-* ~~See MP's Slides~~
-* Document Style Transfer GAN
-* Check out FJ's threshold idea (sum up intensities for each label, look at 10 thresholds and choose)
-* Use network to predict GMM parameters
-* Prepare Slides
-* ~~Document things which AK mentioned yesterday~~
-* Write letter to Lund University folks.
-* Finish Analysis on Keller Lab
-* ~~Pay for kuche~~
-
 ---
 
 ---
@@ -153,3 +141,35 @@
 * Clean up the code
 *
 
+### Wednesday, December 18, 2019
+* ~~See AK's Slides~~
+* ~~See MP's Slides~~
+* Document Style Transfer GAN
+* Check out FJ's threshold idea (sum up intensities for each label, look at 10 thresholds and choose)
+* Use network to predict GMM parameters
+* Prepare Slides
+* ~~Document things which AK mentioned yesterday~~
+* Write letter to Lund University folks.
+* Finish Analysis on Keller Lab
+* ~~Pay for kuche~~
+* Figure out if starpose makes sense. (Typically you have images and not masks)
+* Read DeepPose.
+* Read Gatys et al.
+* Document Gatys et al.
+* Try Gatys et al on Simulated Data.
+* Document Keller lab Analysis on Simulated Data.
+* Try coloring pixels with different colors
+* Perform unsupervised matching of sub-lineages.
+* Complete GenSeg.
+* See if you can perform N2V on optical flow.
+
+# dec 19
+* ~~meet KK~~.
+* Figure out the cluster.
+* Modify the markdown timetable such that it can print specific months.
+* Answer the pull request.
+
+# dec 27
+* Document KellerLab.
+* Document TextureSynthesis.
+* Train a Unet baseline on DSB and save.
