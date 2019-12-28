@@ -1,9 +1,13 @@
 ---
 
-### Friday, December 27, 2019
-* Document KellerLab.
-* Document TextureSynthesis.
-* Train a Unet baseline on DSB and save.
+### Saturday, December 28, 2019
+* Finish transforming pytorch pn2v for segmentation.
+* Train pn2v baseline on DSB and save.
+* Add second post for documentation on texture synthesis.
+* Add Mouse Actin Notebooks.
+* Add Mouse Skull Nuclei Notebooks.
+* Add ReadMe.
+* Document DCGAN.
 ---
 
 ---
@@ -172,4 +176,9 @@
 * Figure out the cluster.
 * Modify the markdown timetable such that it can print specific months.
 * Answer the pull request.
+
+### Friday, December 27, 2019
+* Document KellerLab.
+* ~~Document TextureSynthesis.~~
+* Train a Unet baseline on DSB and save.
 

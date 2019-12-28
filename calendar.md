@@ -166,5 +166,14 @@
 
 ### dec 27
 * Document KellerLab.
-* Document TextureSynthesis.
+* ~~Document TextureSynthesis.~~
 * Train a Unet baseline on DSB and save.
+
+### dec 28
+* Finish transforming pytorch pn2v for segmentation.
+* Train pn2v baseline on DSB and save.
+* Add second post for documentation on texture synthesis.
+* Add Mouse Actin Notebooks.
+* Add Mouse Skull Nuclei Notebooks.
+* Add ReadMe.
+* Document DCGAN.
